@@ -1,0 +1,5 @@
+/Users/zanael/Projects/VS_Connected/MobileAppService/bin/Release/netcoreapp1.1/VS_Connected.MobileAppService.dll
+/Users/zanael/Projects/VS_Connected/MobileAppService/bin/Release/netcoreapp1.1/VS_Connected.MobileAppService.pdb
+/Users/zanael/Projects/VS_Connected/MobileAppService/obj/Release/netcoreapp1.1/VS_Connected.MobileAppService.AssemblyInfo.cs
+/Users/zanael/Projects/VS_Connected/MobileAppService/obj/Release/netcoreapp1.1/VS_Connected.MobileAppService.dll
+/Users/zanael/Projects/VS_Connected/MobileAppService/obj/Release/netcoreapp1.1/VS_Connected.MobileAppService.pdb

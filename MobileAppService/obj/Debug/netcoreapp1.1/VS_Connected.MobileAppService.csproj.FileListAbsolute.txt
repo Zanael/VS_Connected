@@ -1,0 +1,6 @@
+/Users/zanael/Projects/VS_Connected/MobileAppService/bin/Debug/netcoreapp1.1/VS_Connected.MobileAppService.dll
+/Users/zanael/Projects/VS_Connected/MobileAppService/bin/Debug/netcoreapp1.1/VS_Connected.MobileAppService.pdb
+/Users/zanael/Projects/VS_Connected/MobileAppService/obj/Debug/netcoreapp1.1/VS_Connected.MobileAppService.csprojResolveAssemblyReference.cache
+/Users/zanael/Projects/VS_Connected/MobileAppService/obj/Debug/netcoreapp1.1/VS_Connected.MobileAppService.AssemblyInfo.cs
+/Users/zanael/Projects/VS_Connected/MobileAppService/obj/Debug/netcoreapp1.1/VS_Connected.MobileAppService.dll
+/Users/zanael/Projects/VS_Connected/MobileAppService/obj/Debug/netcoreapp1.1/VS_Connected.MobileAppService.pdb
